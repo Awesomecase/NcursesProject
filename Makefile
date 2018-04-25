@@ -1,7 +1,7 @@
 #
-# UTD CS3377 CDK Example
-# Dr. Perkins
-# stephen.perkins@utdallas.edu
+# UTD CS3377 Program6
+# Cole Swingholm
+# css160030@utdallas.edu
 #
 
 CXX = g++

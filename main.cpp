@@ -1,4 +1,7 @@
 #include "program6.hpp"
+//Cole Swingholm
+//css160030
+//Program6
 int main(int argc, char* argv[])
 {
     BinaryFileRecord *myRecord = new BinaryFileRecord();
